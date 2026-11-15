@@ -74,6 +74,7 @@
 | **[IoT Micro-Leasing](https://github.com/Artem7898/iot-micro-leasing)** | IoT equipment micro-leasing platform with pay-per-use billing | Python, Django, IoT |
 | **[HomeInventory](https://github.com/Artem7898/homeinventory)** | Smart home inventory management system with Django Unfold admin | Django, Django-Unfold |
 | **[scientific_fastapi](https://github.com/Artem7898/scientific_fastapi)** | High-performance, strictly-typed API framework for computational physics and scientific machine learning. | Python, FastAPI, Pydantic V2, Ruff |
+| **[ai-agents-platform](https://github.com/Artem7898/ai-agents-platform)** | A Django 5.2 LTS backend for persisted AI workflows, with Django REST Framework for CRUD, FastAPI for execution commands, PostgreSQL, and a separate outbox worker. Python 3.12 | Python, Django 5.2 LTS, Django REST Framework, FastAPI, PostgreSQL | 
 ---
 
 ## 📊 GitHub Stats
