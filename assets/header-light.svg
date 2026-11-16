@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="440" viewBox="0 0 1280 440" role="img" aria-labelledby="title desc">
+<title id="title">Artem Alimpiev — Python Backend Engineer</title>
+<desc id="desc">Python backends, AI workflows, and developer tools. An animated decorative sequence connects schema, execution, and evidence.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F8FAFF"/><stop offset="1" stop-color="#EAF5F3"/></linearGradient>
+  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#087F72"/><stop offset="0.55" stop-color="#60A5FA"/><stop offset="1" stop-color="#7853C9"/></linearGradient>
+  <radialGradient id="tealGlow"><stop stop-color="#087F72" stop-opacity="0.14"/><stop offset="1" stop-color="#087F72" stop-opacity="0"/></radialGradient>
+  <radialGradient id="violetGlow"><stop stop-color="#7853C9" stop-opacity="0.12"/><stop offset="1" stop-color="#7853C9" stop-opacity="0"/></radialGradient>
+  <pattern id="dots" x="0" y="0" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="0.8" fill="#5C8BA7" opacity="0.18"/></pattern>
+  <clipPath id="frame"><rect x="1" y="1" width="1278" height="438" rx="24"/></clipPath>
+</defs>
+<style>
+  text { font-family: Arial, Helvetica, sans-serif; }
+  .mono { font-family: 'DejaVu Sans Mono', Consolas, monospace; }
+  .trace { stroke-dasharray:18 104; animation:flow 5s linear infinite; }
+  .halo { animation:glow 6s ease-in-out infinite; }
+  @keyframes flow { from { stroke-dashoffset:0; } to { stroke-dashoffset:-122; } }
+  @keyframes glow { 0%,100% { opacity:.5; } 50% { opacity:1; } }
+  @media (prefers-reduced-motion: reduce) { .trace,.halo { animation:none; } }
+</style>
+<rect x="1" y="1" width="1278" height="438" rx="24" fill="url(#bg)" stroke="#C8DCE3"/>
+<g clip-path="url(#frame)">
+  <ellipse cx="1160" cy="75" rx="370" ry="320" fill="url(#tealGlow)" class="halo"/>
+  <ellipse cx="790" cy="430" rx="390" ry="290" fill="url(#violetGlow)"/>
+  <rect x="794" y="0" width="486" height="440" fill="url(#dots)"/>
+  <path d="M 878 -30 C 760 100 810 350 1150 480" fill="none" stroke="#C8DCE3" opacity="0.6"/>
+  <path d="M 974 -50 C 824 110 884 380 1330 430" fill="none" stroke="#C8DCE3" opacity="0.6"/>
+  <rect x="0" y="0" width="1280" height="4" fill="url(#accent)"/>
+</g>
+<rect x="56" y="37" width="38" height="32" rx="8" fill="#087F72" fill-opacity="0.13" stroke="#087F72" stroke-opacity="0.38"/>
+<text x="75" y="59" text-anchor="middle" class="mono" font-size="17" font-weight="700" fill="#087F72">AA</text>
+<text x="111" y="58" class="mono" font-size="14" letter-spacing="1.8" fill="#506B83">BACKEND ENGINEERING / OPEN SOURCE</text>
+<text x="1223" y="58" class="mono" font-size="14" text-anchor="end" letter-spacing="1" fill="#506B83">@ARTEM7898</text>
+<text x="53" y="169" font-size="78" font-weight="700" letter-spacing="-2.8" fill="#152A44">Artem Alimpiev</text>
+<text x="58" y="218" font-size="29" fill="#087F72">Python Backend Engineer</text>
+<text x="58" y="278" font-size="25" fill="#415D78">Clear contracts. Verifiable behavior.</text>
+<text x="58" y="314" font-size="22" fill="#506B83">Django · FastAPI · AI developer tools</text>
+<rect x="58" y="356" width="140" height="33" rx="16.5" fill="#E3F2F0" stroke="#C8DCE3"/>
+<circle cx="75" cy="372.5" r="3" fill="#087F72"/>
+<text x="88" y="377" class="mono" font-size="12" letter-spacing="1.1" fill="#415D78">TYPE SAFETY</text>
+<rect x="210" y="356" width="168" height="33" rx="16.5" fill="#E3F2F0" stroke="#C8DCE3"/>
+<circle cx="227" cy="372.5" r="3" fill="#60A5FA"/>
+<text x="240" y="377" class="mono" font-size="12" letter-spacing="1.1" fill="#415D78">ASYNC WORKFLOWS</text>
+<rect x="390" y="356" width="140" height="33" rx="16.5" fill="#E3F2F0" stroke="#C8DCE3"/>
+<circle cx="407" cy="372.5" r="3" fill="#7853C9"/>
+<text x="420" y="377" class="mono" font-size="12" letter-spacing="1.1" fill="#415D78">TEST QUALITY</text>
+<rect x="860" y="113" width="355" height="264" rx="17" fill="#7853C9" fill-opacity="0.04" stroke="#7853C9" stroke-opacity="0.14"/>
+<rect x="846" y="100" width="355" height="264" rx="17" fill="#FFFFFF" stroke="#C8DCE3"/>
+<circle cx="871" cy="125" r="4" fill="#087F72"/>
+<circle cx="886" cy="125" r="4" fill="#60A5FA" opacity="0.65"/>
+<circle cx="901" cy="125" r="4" fill="#7853C9" opacity="0.6"/>
+<text x="1178" y="130" text-anchor="end" class="mono" font-size="12" letter-spacing="0.5" fill="#506B83">engineering / approach</text>
+<path d="M 846 149 H 1201" stroke="#C8DCE3"/>
+<path d="M 878 188 V 310" fill="none" stroke="#C8DCE3" stroke-width="2"/>
+<path d="M 878 188 V 310" fill="none" stroke="#087F72" stroke-width="2" class="trace"/>
+<rect x="871" y="181" width="14" height="14" rx="4" fill="#087F72"/>
+<rect x="871" y="242" width="14" height="14" rx="4" fill="#60A5FA"/>
+<rect x="871" y="303" width="14" height="14" rx="4" fill="#7853C9"/>
+<text x="904" y="191" class="mono" font-size="18" letter-spacing="2.1" font-weight="700" fill="#152A44">SCHEMA</text>
+<text x="904" y="215" font-size="16" fill="#415D78">Define the contract</text>
+<text x="904" y="252" class="mono" font-size="18" letter-spacing="2.1" font-weight="700" fill="#152A44">EXECUTION</text>
+<text x="904" y="276" font-size="16" fill="#415D78">Make state visible</text>
+<text x="904" y="313" class="mono" font-size="18" letter-spacing="2.1" font-weight="700" fill="#152A44">EVIDENCE</text>
+<text x="904" y="337" font-size="16" fill="#415D78">Verify the behavior</text>
+<path d="M 852 395 H 1200" stroke="url(#accent)" stroke-width="1" opacity="0.5"/>
+</svg>
